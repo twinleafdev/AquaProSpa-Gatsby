@@ -17,7 +17,7 @@ mainpitch:
     Headquarters!
 
 
-    Call Aqua Pro Spas for the best in hot tub sales and services. We have 20 years of experience and offer unparalleled expertise. You can always count on our fully insured company for premium hot tubs, outstanding services, and great customer care. Our friendly staff works one-on-one with you to meet your needs every time. Emergency services are available, so contact us today.
+    Call Aqua Pro Spas for the best in hot tub sales and services. We have 20 years of experience and offer unparalleled expertise. You can always count on our fully insured company for premium hot tubs, outstanding services, and great customer care. Our friendly staff works one-on-one with you to meet your needs every time. Emergency services are available, so contact us today. 
 
 
     Our Philosophy
