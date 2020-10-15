@@ -81,8 +81,12 @@ $black: #2b2523
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
-  padding: 3rem 0rem 0rem
-  background-color: transparent
+  padding: 5rem 3rem
+  background-image: url(../img/bg_head.jpg)
+  background-size: cover;
+  background-position: center
+  h1
+    color: #fff
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -125,6 +129,12 @@ $menu-label-color: $white-ter
 
 @import "~bulma"
 
+.navbar-item img
+    max-height: 3.75rem;
+.navbar 
+  background-image: url(../img/bg_head.jpg)
+  background-size: cover;
+  background-position: center
 
 // responsiveness
 +tablet-only
@@ -138,3 +148,7 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+@media (min-width: 769px)
+  .column.is-three-quarters 
+      flex: none;
+      width: 75%;
